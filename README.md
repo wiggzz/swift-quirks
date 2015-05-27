@@ -12,3 +12,5 @@ struct Animal {
 }
 ```
 ### no mocking right now (or reflection)
+
+### no protected access modifier
