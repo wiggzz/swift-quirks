@@ -14,3 +14,4 @@ struct Animal {
 ### no mocking right now (or reflection)
 
 ### no protected access modifier
+> When you develop a framework, mark the public-facing interface to that framework as public so that it can be viewed and accessed by other modules, such as an app that imports the framework.
